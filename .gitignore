@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Airflow
+logs/
+airflow.db
+
+# Environment
+.env
+venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Screenshots/images
+screenshots/
+image*.png
+
+dags/etl_pipeline_dag.py
