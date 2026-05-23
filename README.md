@@ -144,27 +144,27 @@ GROUP BY outlet_type;
 
 ## Airflow DAG Execution
 
-![Airflow DAG](screenshots/image-1.png)
+![Airflow DAG](screenshots/image-5.png)
 
 ---
 
 ## Athena Query Results
 
-![Athena Result 1](screenshots/image-2.png)
-![Athena Result 2](screenshots/image-3.png)
+![Athena Result 1](screenshots/image.png)
+![Athena Result 2](screenshots/image-1.png)
 
 
 ---
 
 ## AWS Glue Job Success
 
-![Glue Job](screenshots/image-4.png)
+![Glue Job](screenshots/image-2.png)
 
 ---
 
 ## S3 Data Lake Structure
 
-![S3 Structure](screenshots/image-5.png)
+![S3 Structure](screenshots/image-3.png)
 
 ---
 
