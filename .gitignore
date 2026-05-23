@@ -22,7 +22,6 @@ Thumbs.db
 *.log
 
 # Screenshots/images
-screenshots/
-image*.png
+
 
 dags/etl_pipeline_dag.py
