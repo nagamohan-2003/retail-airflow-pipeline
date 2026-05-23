@@ -9,7 +9,7 @@ The pipeline ingests raw retail sales CSV data into Amazon S3, processes and tra
 ---
 
 # Architecture
-![alt text](image-5.png)
+![Architecture](architecture/architecture.png)
 
 ---
 
@@ -144,27 +144,27 @@ GROUP BY outlet_type;
 
 ## Airflow DAG Execution
 
-![Airflow DAG](screenshots/airflow_pipeline_success.png)
+![Airflow DAG](screenshots/image-1.png)
 
 ---
 
 ## Athena Query Results
 
-![alt text](image-1.png)
-![alt text](image.png)
+![Athena Result 1](screenshots/image-2.png)
+![Athena Result 2](screenshots/image-3.png)
 
 
 ---
 
 ## AWS Glue Job Success
 
-![alt text](image-2.png)
+![Glue Job](screenshots/image-4.png)
 
 ---
 
 ## S3 Data Lake Structure
 
-![alt text](image-3.png)
+![S3 Structure](screenshots/image-5.png)
 
 ---
 
